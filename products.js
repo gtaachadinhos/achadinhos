@@ -4,7 +4,7 @@ const productsData = {
         {
             id: 1,
             number: "001",
-            title: "Curso de Marketing Digital",
+            title: "XUXU RIBEIRINHO",
             image: "https://via.placeholder.com/300x200/667eea/ffffff?text=Curso+Marketing",
             affiliateLink: "https://exemplo.com/curso-marketing",
             keywords: ["marketing", "digital", "curso", "vendas", "online"],
