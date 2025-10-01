@@ -4,9 +4,9 @@ const productsData = {
         {
             id: 1,
             number: "001",
-            title: "XUXU RIBEIRINHO",
-            image: "https://via.placeholder.com/300x200/667eea/ffffff?text=Curso+Marketing",
-            affiliateLink: "https://exemplo.com/curso-marketing",
+            title: "Mini Umidificador Difusor Aromatizador Egg",
+            image: "images/ACD 001.png",
+            affiliateLink: "https://s.shopee.com.br/6prjQWfUNE?share_channel_code=1",
             keywords: ["marketing", "digital", "curso", "vendas", "online"],
             clickCount: 0,
             viewCount: 0
@@ -14,9 +14,9 @@ const productsData = {
         {
             id: 2,
             number: "002", 
-            title: "E-book de Empreendedorismo",
-            image: "https://via.placeholder.com/300x200/764ba2/ffffff?text=E-book+Empreendedorismo",
-            affiliateLink: "https://exemplo.com/ebook-empreendedorismo",
+            title: "Manta Brilha No Escuro Para Bebê",
+            image: "images/ACD 002.png",
+            affiliateLink: "https://s.shopee.com.br/9zolZiXfxc",
             keywords: ["ebook", "empreendedorismo", "negócios", "startup", "empresário"],
             clickCount: 0,
             viewCount: 0
@@ -24,9 +24,9 @@ const productsData = {
         {
             id: 3,
             number: "003",
-            title: "Template de Apresentação",
-            image: "https://via.placeholder.com/300x200/ff6b6b/ffffff?text=Template+Apresentação",
-            affiliateLink: "https://exemplo.com/template-apresentacao",
+            title: "Espelho Redondo Lapidado Led",
+            image: "images/ACD 003.png",
+            affiliateLink: "https://s.shopee.com.br/10twrYN2t8",
             keywords: ["template", "apresentação", "powerpoint", "slides", "design"],
             clickCount: 0,
             viewCount: 0
@@ -34,9 +34,9 @@ const productsData = {
         {
             id: 4,
             number: "004",
-            title: "Software de Gestão",
-            image: "https://via.placeholder.com/300x200/4ecdc4/ffffff?text=Software+Gestão",
-            affiliateLink: "https://exemplo.com/software-gestao",
+            title: "Prateleiras Suporte Com Alto Adesivos",
+            image: "images/ACD 004.png",
+            affiliateLink: "https://s.shopee.com.br/6prjovJsVk",
             keywords: ["software", "gestão", "produtividade", "ferramenta", "empresa"],
             clickCount: 0,
             viewCount: 0
@@ -44,60 +44,10 @@ const productsData = {
         {
             id: 5,
             number: "005",
-            title: "Curso de Programação",
-            image: "https://via.placeholder.com/300x200/45b7d1/ffffff?text=Curso+Programação",
-            affiliateLink: "https://exemplo.com/curso-programacao",
+            title: "Relógio Despertador Digital De Mesa",
+            image: "images/ACD 005.png",
+            affiliateLink: "https://s.shopee.com.br/9pVLPmIzne",
             keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
-            clickCount: 0,
-            viewCount: 0
-        },
-        {
-            id: 6,
-            number: "006",
-            title: "Planner Digital",
-            image: "https://via.placeholder.com/300x200/f9ca24/ffffff?text=Planner+Digital",
-            affiliateLink: "https://exemplo.com/planner-digital",
-            keywords: ["planner", "organização", "produtividade", "planejamento", "agenda"],
-            clickCount: 0,
-            viewCount: 0
-        },
-        {
-            id: 7,
-            number: "007",
-            title: "Curso de Design Gráfico",
-            image: "https://via.placeholder.com/300x200/6c5ce7/ffffff?text=Curso+Design",
-            affiliateLink: "https://exemplo.com/curso-design",
-            keywords: ["design", "gráfico", "criativo", "arte", "visual"],
-            clickCount: 0,
-            viewCount: 0
-        },
-        {
-            id: 8,
-            number: "008",
-            title: "Ferramenta de SEO",
-            image: "https://via.placeholder.com/300x200/a55eea/ffffff?text=Ferramenta+SEO",
-            affiliateLink: "https://exemplo.com/ferramenta-seo",
-            keywords: ["seo", "otimização", "google", "tráfego", "site"],
-            clickCount: 0,
-            viewCount: 0
-        },
-        {
-            id: 9,
-            number: "009",
-            title: "Ferramenta de SEO",
-            image: "https://via.placeholder.com/300x200/a55eea/ffffff?text=Ferramenta+SEO",
-            affiliateLink: "https://exemplo.com/ferramenta-seo",
-            keywords: ["seo", "otimização", "google", "tráfego", "site"],
-            clickCount: 0,
-            viewCount: 0
-        },
-        {
-            id: 10,
-            number: "010",
-            title: "Ferramenta de SEO",
-            image: "https://via.placeholder.com/300x200/a55eea/ffffff?text=Ferramenta+SEO",
-            affiliateLink: "https://exemplo.com/ferramenta-seo",
-            keywords: ["seo", "otimização", "google", "tráfego", "site"],
             clickCount: 0,
             viewCount: 0
         }
