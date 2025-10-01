@@ -50,6 +50,56 @@ const productsData = {
             keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
             clickCount: 0,
             viewCount: 0
+        },
+        {
+            id: 6,
+            number: "006",
+            title: "Caixa de som Bluetooth Portátil Com Led RGB",
+            image: "images/ACD 006.png",
+            affiliateLink: "https://s.shopee.com.br/5L2wOtJafk",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 7,
+            number: "007",
+            title: "Jogo de Lençol 03 Peças 400 Fios",
+            image: "images/ACD 007.png",
+            affiliateLink: "https://s.shopee.com.br/3AyRp2kbce",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 8,
+            number: "008",
+            title: "Camiseta Básica Infantil",
+            image: "images/ACD 008.png",
+            affiliateLink: "https://s.shopee.com.br/VxgeGMnSa",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 9,
+            number: "009",
+            title: "Kit 10 Marmita Potes 800ml",
+            image: "images/ACD 009.png",
+            affiliateLink: "https://s.shopee.com.br/9fBvZDGH4K",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 10,
+            number: "010",
+            title: "Calça Jeans Jogger Infantil",
+            image: "images/ACD 010.png",
+            affiliateLink: "https://s.shopee.com.br/BKqFqnwob",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
         }
     ]
 };
