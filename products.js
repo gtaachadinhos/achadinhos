@@ -100,7 +100,108 @@ const productsData = {
             keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
             clickCount: 0,
             viewCount: 0
-        }
+        },
+        {
+            id: 11,
+            number: "011",
+            title: "Luz De Rua Solar Impermeável Sensor",
+            image: "images/ACD 11.png",
+            affiliateLink: "https://s.shopee.com.br/4Aqz1KMl2S",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 12,
+            number: "012",
+            title: "Air Fryer Fritadeira Elétrica sem Óleo",
+            image: "images/ACD 12.png",
+            affiliateLink: "https://s.shopee.com.br/40XZlsW5pC",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 13,
+            number: "013",
+            title: "Computador Gamer Completo",
+            image: "images/ACD 13.png",
+            affiliateLink: "https://s.shopee.com.br/4fnGWQm93z",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 14,
+            number: "014",
+            title: "Máquina de Cabelo Dragão Profissional Elétrica",
+            image: "images/ACD 14.png",
+            affiliateLink: "https://s.shopee.com.br/9pVMgPpYS8",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 15,
+            number: "015",
+            title: "Escova Secadora Alisador Elétrica",
+            image: "images/ACD 15.png",
+            affiliateLink: "https://s.shopee.com.br/7AUbYtKwa9",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 16,
+            number: "016",
+            title: "Jogo De Panelas Antiaderente 10 Peças",
+            image: "images/ACD 16.png",
+            affiliateLink: "https://s.shopee.com.br/7pkIJ0qInY",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 17,
+            number: "017",
+            title: "Prateleira Suspensa Uno Line paraDecoração",
+            image: "images/ACD 17.png",
+            affiliateLink: "https://s.shopee.com.br/7fQs6tUURW",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 18,
+            number: "018",
+            title: "Lustre De Teto Nórdico De Luxo 3 Cores",
+            image: "images/ACD 18.png",
+            affiliateLink: "https://s.shopee.com.br/8pcpVV5bUS",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 19,
+            number: "019",
+            title: "Quadro Decorativo Mosaico Leão de Juda Olho Azul",
+            image: "images/ACD 19.png",
+            affiliateLink: "https://s.shopee.com.br/803iWBlS9C",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        {
+            id: 20,
+            number: "020",
+            title: "Cortina Blackout Para Quarto Sala Cozinha",
+            image: "images/ACD 20.png",
+            affiliateLink: "https://s.shopee.com.br/1BDONmTpWD",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
+        
     ]
 };
 
