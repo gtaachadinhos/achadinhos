@@ -201,6 +201,16 @@ const productsData = {
             clickCount: 0,
             viewCount: 0
         },
+        {
+            id: 21,
+            number: "021",
+            title: "Placas Ripada Painel Decorativo em Mdf",
+            image: "images/ACD 21.png",
+            affiliateLink: "https://s.shopee.com.br/2qLchfckp0",
+            keywords: ["programação", "código", "desenvolvimento", "tecnologia", "web"],
+            clickCount: 0,
+            viewCount: 0
+        },
         
     ]
 };
